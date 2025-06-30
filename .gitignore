@@ -6,6 +6,12 @@ venv/
 __pycache__/
 *.pyc
 
+# Ignore vector DB
+vector_db/
+*.onnx
+*.pt
+*.pkl
+
 # VSCode settings
 .vscode/
 
