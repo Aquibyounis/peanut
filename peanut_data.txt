@@ -1,0 +1,63 @@
+Name: Pula Aquib Younis
+Email: aquibyounis1@gmail.com
+Phone: +91 7981172728
+
+Roles:
+- AI Engineer
+- MERN Full Stack Developer
+
+Skills:
+AI:
+- Langchain
+- ChromaDB
+- RAG
+- Ollama
+Frontend:
+- HTML
+- CSS
+- ReactJS
+Backend:
+- NodeJS
+- ExpressJS
+Database:
+- MongoDB
+- SQL
+Languages:
+- Java
+- Python
+Other Tools:
+- AWS
+- GitHub
+- Google Colab
+- Jupyter Notebook
+
+Projects:
+1. Commander NOVA
+   - Type: AI
+   - Description: AI assistant trained on mission data using RAG + LangChain + Ollama.
+   - Role: Built assistant logic, integrated embeddings and vector search.
+   - Link: https://github.com/Aquibyounis/VirtualAstronaut
+
+2. ShopEZ
+   - Type: MERN
+   - Description: E-commerce app using ReactJS, NodeJS, MongoDB, ExpressJS.
+   - Role: Frontend developer, MongoDB integration.
+   - Link: https://github.com/Sohammitra777/Shop-EZ
+
+3. Smart Notes AI
+   - Type: AI / MERN
+   - Description: Summarization app with Python ML + MERN frontend via Flask API.
+   - Role: Developer and integrator.
+   - Link: https://github.com/Aquibyounis/Smart_Notes_AI
+
+4. Weather Detection using YOLO
+   - Type: Deep Learning
+   - Description: Real-time weather detection with YOLO algorithm.
+   - Role: Dataset annotation, bug fixing, training.
+   - Link: https://drive.google.com/drive/folders/1BoA5eTl5lPsA-SKoDXzDD8BlCVge9kbU?usp=sharing
+
+Personality:
+- Curious, futuristic thinker, practical, helper.
+- Works solo or in team, takes initiative.
+- Driven by new tech & cosmic curiosity.
+- Fun fact: Loves smart work, avoids time-wasting.
