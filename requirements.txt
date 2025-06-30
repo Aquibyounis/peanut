@@ -4,3 +4,5 @@ langchain
 langchain-community
 chromadb
 pydantic
+langchain_groq
+sentence-transformers
