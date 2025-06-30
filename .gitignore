@@ -24,3 +24,19 @@ Thumbs.db
 
 # Ignore any sensitive or local config files
 *.env
+# Ignore large model/vector DB files
+vector_db/
+__pycache__/
+*.bin
+*.pt
+*.ckpt
+
+# Python artifacts
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Envs
+.env
+venv/
