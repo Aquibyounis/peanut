@@ -14,31 +14,24 @@ Roles:
 - MERN Full Stack Developer
 
 Skills:
-
-AI & LLM:
-- LangChain
+AI:
+- Langchain
 - ChromaDB
-- RAG (Retrieval-Augmented Generation)
+- RAG
 - Ollama
-- HuggingFace Transformers
-
 Frontend:
 - HTML
 - CSS
 - ReactJS
-
 Backend:
 - NodeJS
 - ExpressJS
-
 Database:
 - MongoDB
 - SQL
-
-Programming Languages:
+Languages:
 - Java
 - Python
-
 Other Tools:
 - AWS
 - GitHub
@@ -46,71 +39,32 @@ Other Tools:
 - Jupyter Notebook
 
 Projects:
-
 1. Commander NOVA
-Type: AI
-Description: AI astronaut assistant trained on mission data using RAG, LangChain, and Ollama.
-Role: Built assistant logic, integrated embeddings and vector search.
-Link: https://github.com/Aquibyounis/VirtualAstronaut
+   - Type: AI
+   - Description: AI assistant trained on mission data using RAG + LangChain + Ollama.
+   - Role: Built assistant logic, integrated embeddings and vector search.
+   - Link: https://github.com/Aquibyounis/VirtualAstronaut
 
 2. ShopEZ
-Type: MERN
-Description: E-commerce app using ReactJS, NodeJS, MongoDB, ExpressJS.
-Role: Frontend developer, MongoDB integration.
-Link: https://github.com/Sohammitra777/Shop-EZ
+   - Type: MERN
+   - Description: E-commerce app using ReactJS, NodeJS, MongoDB, ExpressJS.
+   - Role: Frontend developer, MongoDB integration.
+   - Link: https://github.com/Sohammitra777/Shop-EZ
 
 3. Smart Notes AI
-Type: AI / MERN
-Description: Summarization app with Python ML backend and MERN frontend via Flask API.
-Role: Developer and integrator.
-Link: https://github.com/Aquibyounis/Smart_Notes_AI
+   - Type: AI / MERN
+   - Description: Summarization app with Python ML + MERN frontend via Flask API.
+   - Role: Developer and integrator.
+   - Link: https://github.com/Aquibyounis/Smart_Notes_AI
 
 4. Weather Detection using YOLO
-Type: Deep Learning
-Description: Real-time weather detection system using the YOLO object detection algorithm.
-Role: Dataset annotation, bug fixing, model training.
-Link: https://drive.google.com/drive/folders/1BoA5eTl5lPsA-SKoDXzDD8BlCVge9kbU?usp=sharing
+   - Type: Deep Learning
+   - Description: Real-time weather detection with YOLO algorithm.
+   - Role: Dataset annotation, bug fixing, training.
+   - Link: https://drive.google.com/drive/folders/1BoA5eTl5lPsA-SKoDXzDD8BlCVge9kbU?usp=sharing
 
-Interests:
-- AI assistants & voice-enabled interfaces
-- Space technology & cosmic research
-- Minimal design & futuristic UI/UX
-- Exploring LLMs and building open-source tools
-- Reading about human-computer interaction
-- Creating assistants that feel human-like
-- Teaching through AI
-
-Hobbies:
-- watch Anime
-- YouTube video editing and learning new Skill in free time
-- Explore new fields
-
-Personality Traits:
-- Curious, futuristic thinker, practical, and always ready to help
-- Works well both independently and in teams
-- Takes initiative, self-motivated, focused
-- Loves smart work, avoids time-wasting
-- Driven by new technology, always exploring cutting-edge tools
-
-Common HR Q&A:
-
-Q: Why should we hire you?
-A: Aquib brings deep technical knowledge, problem-solving ability, and a user-first mindset. His ability to merge AI logic with clean product experiences makes him ideal for real-world applications.
-
-Q: What’s your weakness?
-A: Sometimes too focused on perfecting one feature — now managed through structured task lists and checkpoints.
-
-Q: Tell me about a project you’re proud of.
-A: Commander NOVA — an AI astronaut assistant built using RAG, LangChain, and Ollama. It simulates mission help, stores long-term memory, and can act as a mentor.
-
-Q: Where do you see yourself in 5 years?
-A: Leading futuristic AI product teams, mentoring others, and building tools that empower everyday users through intelligent systems.
-
-Q: What motivates you?
-A: Turning ideas into tools that make lives easier — especially using AI for productivity and creativity.
-
-Q: How do you handle pressure?
-A: Uses structured time-blocking, tools like Notion, and focuses on one goal at a time to reduce overwhelm.
-
-Q: Are you a team player?
-A: Absolutely — believes collaboration multiplies ideas. Enjoys pairing, code reviews, and brainstorming.
+Personality:
+- Curious, futuristic thinker, practical, helper.
+- Works solo or in team, takes initiative.
+- Driven by new tech & cosmic curiosity.
+- Fun fact: Loves smart work, avoids time-wasting.
