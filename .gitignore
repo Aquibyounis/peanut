@@ -6,8 +6,6 @@ venv/
 __pycache__/
 *.pyc
 
-# Ignore vector DB
-vector_db/
 *.onnx
 *.pt
 *.pkl
@@ -24,8 +22,6 @@ Thumbs.db
 
 # Ignore any sensitive or local config files
 *.env
-# Ignore large model/vector DB files
-vector_db/
 __pycache__/
 *.bin
 *.pt
